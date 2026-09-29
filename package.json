@@ -1,0 +1,9 @@
+{
+  "name": "civitai-proxy",
+  "version": "1.0.0",
+  "description": "Civitai blocked-asset proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
